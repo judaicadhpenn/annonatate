@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-04-05 16:25:05.110303'
+  iiif: false
+  thumbnail: https://colenda.library.upenn.edu/phalt/iiif/2/ark81431p37659w10%2FSHA256E-s3571294--1dd7b7867bfd81eb05fdb71f4fc2ace43833a9f1853e67c547fca676914b1222.jpeg/735,626,2236,2826/1280,/0/default.tif
+  title: ''
+  url: https://colenda.library.upenn.edu/phalt/iiif/2/ark81431p37659w10%2FSHA256E-s3571294--1dd7b7867bfd81eb05fdb71f4fc2ace43833a9f1853e67c547fca676914b1222.jpeg/735,626,2236,2826/1280,/0/default.tif
+  user: judaicadhpenn
 settings: {}
 version: '2.1'

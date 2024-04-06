@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://judaicadhpenn.github.io/annonatate/img/derivatives/iiif/zucker40//p40",
+  "height": 4096,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 256,
+      "width": 219
+    },
+    {
+      "height": 128,
+      "width": 109
+    },
+    {
+      "height": 64,
+      "width": 55
+    },
+    {
+      "height": 32,
+      "width": 27
+    },
+    {
+      "height": 16,
+      "width": 14
+    },
+    {
+      "height": 8,
+      "width": 7
+    },
+    {
+      "height": 4,
+      "width": 3
+    },
+    {
+      "height": 2,
+      "width": 2
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 512
+    }
+  ],
+  "width": 3500
+}

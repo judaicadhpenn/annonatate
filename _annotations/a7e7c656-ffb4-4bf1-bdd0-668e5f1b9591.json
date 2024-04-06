@@ -1,0 +1,26 @@
+---
+canvas: "https://judaicadhpenn.github.io/annonatate/img/derivatives/iiif/zucker40/canvas/zucker40-1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://judaicadhpenn.github.io/annonatate/img/derivatives/iiif/zucker40/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://judaicadhpenn.github.io/annonatate/img/derivatives/iiif/zucker40/canvas/zucker40-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=766.3397216796875,494.7584533691406,2268.7205810546875,1478.2782897949219"
+        }
+    },
+    "id": "a7e7c656-ffb4-4bf1-bdd0-668e5f1b9591.json",
+    "motivation": "commenting"
+}

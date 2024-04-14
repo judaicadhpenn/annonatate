@@ -1,0 +1,55 @@
+---
+canvas: "https://colenda.library.upenn.edu/items/ark:/81431/p37659w10/canvas/p20"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9497347,
+                    34.2574331
+                ]
+            },
+            "source": "https://www.openstreetmap.org/node/5975853085",
+            "creator": {
+                "id": "judaicadhpenn",
+                "name": "judaicadhpenn"
+            },
+            "created": "2024-04-14T21:08:14.013Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Canobin",
+            "purpose": "identifying",
+            "creator": {
+                "id": "judaicadhpenn",
+                "name": "judaicadhpenn"
+            },
+            "created": "2024-04-14T21:08:21.460Z",
+            "modified": "2024-04-14T21:08:28.205Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://judaicadhpenn.github.io/annonatate/manifests/81431/p37659w10/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://colenda.library.upenn.edu/items/ark:/81431/p37659w10/canvas/p20",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3484.369384765625,3517.731201171875,418.248779296875,401.7275390625"
+        }
+    },
+    "id": "1416f574-0a12-40c3-bb79-f8f3f87beb82.json",
+    "motivation": "commenting"
+}

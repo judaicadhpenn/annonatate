@@ -1,0 +1,26 @@
+---
+canvas: "https://colenda.library.upenn.edu/items/ark:/81431/p37659w10/canvas/p5"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://judaicadhpenn.github.io/annonatate/manifests/81431/p37659w10/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://colenda.library.upenn.edu/items/ark:/81431/p37659w10/canvas/p5",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=124.19662475585938,361.1616516113281,792.0480041503906,914.9224548339844"
+        }
+    },
+    "id": "8bf16082-b525-4f5c-80f4-0bd2a87c085a.json",
+    "motivation": "commenting"
+}

@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-04-14 20:50:53.408502'
+  iiif: true
+  thumbnail: https://iiif-images.library.upenn.edu/iiif/2/35b16ec9-0a66-470f-bb6b-a19d5ad07552%2Faccess/full/!200,200/0/default.jpg
+  title: '[Holy Land travel manuscript]'
+  url: https://colenda.library.upenn.edu/items/ark:/81431/p37659w10/manifest
+  user: judaicadhpenn
 settings: {}
 version: '2.1'

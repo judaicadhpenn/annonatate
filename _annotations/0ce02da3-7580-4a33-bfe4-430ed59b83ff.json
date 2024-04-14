@@ -1,0 +1,55 @@
+---
+canvas: "https://judaicadhpenn.github.io/annonatate/img/derivatives/iiif/zucker40/canvas/zucker40-1"
+order: 10
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mt. Carmel",
+            "purpose": "commenting",
+            "creator": {
+                "id": "judaicadhpenn",
+                "name": "judaicadhpenn"
+            },
+            "created": "2024-04-14T20:57:14.361Z",
+            "modified": "2024-04-14T20:57:16.140Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0500532,
+                    32.7302954
+                ]
+            },
+            "source": "https://www.openstreetmap.org/node/278477246",
+            "creator": {
+                "id": "judaicadhpenn",
+                "name": "judaicadhpenn"
+            },
+            "created": "2024-04-14T20:57:38.403Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://judaicadhpenn.github.io/annonatate/img/derivatives/iiif/zucker40/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://judaicadhpenn.github.io/annonatate/img/derivatives/iiif/zucker40/canvas/zucker40-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1253.7530517578125,2561.306640625,497.4371337890625,292.926025390625"
+        }
+    },
+    "id": "0ce02da3-7580-4a33-bfe4-430ed59b83ff.json",
+    "motivation": "commenting"
+}

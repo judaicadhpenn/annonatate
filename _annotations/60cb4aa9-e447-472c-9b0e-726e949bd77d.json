@@ -1,0 +1,38 @@
+---
+canvas: "https://colenda.library.upenn.edu/items/ark:/81431/p37659w10/canvas/p7"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Chimney Monster",
+            "purpose": "commenting",
+            "creator": {
+                "id": "judaicadhpenn",
+                "name": "judaicadhpenn"
+            },
+            "created": "2024-04-14T21:04:34.926Z",
+            "modified": "2024-04-14T21:04:37.843Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://judaicadhpenn.github.io/annonatate/manifests/81431/p37659w10/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://colenda.library.upenn.edu/items/ark:/81431/p37659w10/canvas/p7",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2790.150390625,1584.1693115234375,273.363525390625,345.00732421875"
+        }
+    },
+    "id": "60cb4aa9-e447-472c-9b0e-726e949bd77d.json",
+    "motivation": "commenting"
+}
